@@ -1,9 +1,0 @@
-<resources>
-    <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="activity_horizontal_margin">16dp</dimen>
-    <dimen name="activity_vertical_margin">16dp</dimen>
-    <dimen name="layout_margin_10">10dp</dimen>
-    <dimen name="text_size_20">20sp</dimen>
-    <dimen name="scan_sdCard_marginstart">20dp</dimen>
-    <dimen name="button_stop_marginend">14dp</dimen>
-</resources>
